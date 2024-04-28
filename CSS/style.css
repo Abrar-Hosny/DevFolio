@@ -1,0 +1,50 @@
+main{
+    background-image:url("../images/hero-bg.jpg") ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+
+
+@font-face {
+    font-family: "Arvo";
+    src: url(../fonts/Arvo-Regular.ttf);
+}
+
+
+nav{
+    font-family: "Arvo";
+    
+}
+
+nav div .navbar-brand {
+    font-size:30px ;
+}
+
+
+.fs-72{
+    font-size: 72px;
+}
+
+
+.fs-48{
+    font-size: 48px;
+}
+
+
+.contact{
+    background-image: url("../images/overlay-bg.jpg");
+background-size: cover;
+
+}
+
+.contact-us{
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.travel-div{
+    bottom: 110px;
+    left: 36%;
+}
