@@ -1,3 +1,13 @@
+@font-face {
+    font-family: "Rubik";
+    src: url("../fonts/Rubik-VariableFont_wght.ttf");
+}
+
+
+*{
+    font-family: "Rubik";
+}
+
 main{
     background-image:url("../images/hero-bg.jpg") ;
     background-size: cover;
@@ -6,11 +16,6 @@ background-attachment: fixed;
 }
 
 
-
-@font-face {
-    font-family: "Arvo";
-    src: url(../fonts/Arvo-Regular.ttf);
-}
 
 
 nav{
